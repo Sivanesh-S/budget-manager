@@ -3,7 +3,7 @@
 
 [DEMO](https://sivanesh-s.github.io/budget-manager/)
 
-![](./DOCS/capture.JPG)
+![](./DOCS/Capture.JPG)
 
 A Budget manager App Built only using HTML, CSS and Javascript. 
 Runs implementations in Browser.
